@@ -26,3 +26,14 @@ Route::get('/about', 'SitesController@index');
 //Route::post('/login','LoginController@store');
 
 //Route::get('welcome','LoginController@welcome');
+
+Route::get('/article','ArticlesController@index');
+
+Route::get('/article/{id}','ArticlesController@show');
+
+Route::get('/login','LoginController@index');
+
+Route::post('/login','LoginController@store');
+
+Route::get('welcome','LoginController@welcome');
+
