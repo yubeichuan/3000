@@ -11,7 +11,6 @@ class SitesController extends Controller
     //
     public function index()
     {
-    	$name = "name2";
-    	return view('sites.about')->with('name',$name);
+    	return "刘佳欣小可爱";
     }
 }

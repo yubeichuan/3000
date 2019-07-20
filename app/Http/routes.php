@@ -17,12 +17,12 @@ Route::get('/', function () {
 
 Route::get('/about', 'SitesController@index');
 
-Route::get('/article','ArticlesController@index');
+//Route::get('/article','ArticlesController@index');
 
-Route::get('/article/{id}','ArticlesController@show');
+//Route::get('/article/{id}','ArticlesController@show');
 
-Route::get('/login','LoginController@index');
+//Route::get('/login','LoginController@index');
 
-Route::post('/login','LoginController@store');
+//Route::post('/login','LoginController@store');
 
-Route::get('welcome','LoginController@welcome');
+//Route::get('welcome','LoginController@welcome');
