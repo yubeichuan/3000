@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'PcController@index');
 
 Route::get('/about', 'SitesController@index');
 
