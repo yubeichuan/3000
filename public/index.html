@@ -155,7 +155,7 @@
 	</section>
 
 	<section id="fh5co-intro">
-		<div class="container">
+		<div class="container" style="max-width:800px;">
 			<div class="row">
 				<div class="resume-sample-image-wrap">
 					<img src="images/resume.jpg" class="resume-sample-image" alt="">
