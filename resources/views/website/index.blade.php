@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>铅笔简历</title>
+	<title>于的个人博客</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -117,12 +117,12 @@
 		        <div class="navbar-header">
 		        	<!-- Mobile Toggle Menu Button -->
 					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-		         <a class="navbar-brand" href="index.html">铅笔简历</a> 
+		         <a class="navbar-brand" href="index.html">rico</a> 
 		        </div>
 		        <div id="navbar" class="navbar-collapse collapse">
 		          <ul class="nav navbar-nav navbar-right">
 					<li>
-						<button class="get-started-button">Get Started</button>
+						<button class="get-started-button">rico</button>
 					</li>
 		            <!-- <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li> -->
 		            <!-- <li><a href="#" data-nav-section="work"><span>Work</span></a></li>
@@ -144,7 +144,7 @@
 				<div class="text-inner">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<h1 class="to-animate">一键生成简历</h1>
+							<h1 class="to-animate">rico</h1>
 							<button class="try-free-demo-button to-animate fadeInUp animated">Try Free Demo</button>
 						</div>
 					</div>
@@ -158,7 +158,7 @@
 		<div class="container" style="max-width:800px;">
 			<div class="row">
 				<div class="resume-sample-image-wrap">
-					<img src="images/resume.jpg" class="resume-sample-image" alt="">
+					<img src="" class="resume-sample-image" alt="">
 				</div>
 				<!-- <div class="fh5co-block to-animate" style="background-image: url(images/img_7.jpg);">
 					<div class="overlay-darker"></div>
@@ -196,125 +196,7 @@
 		</div>
 	</section>
 
-	<section id="fh5co-work" data-section="work">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">Work</h2>
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row row-bottom-padded-sm">
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_1.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_1.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Branding</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_2.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_2.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Web</span>
-						</div>
-					</a>
-				</div>
 
-				<div class="clearfix visible-sm-block"></div>
-
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_3.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_3.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Web</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_4.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_4.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>UI/UX</span>
-						</div>
-					</a>
-				</div>
-				
-				<div class="clearfix visible-sm-block"></div>
-
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_5.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_5.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Photography</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_6.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_6.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-				
-				<div class="clearfix visible-sm-block"></div>
-
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_7.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_7.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Web</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_8.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_8.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Sketch</span>
-						</div>
-					</a>
-				</div>
-
-				<div class="clearfix visible-sm-block"></div>
-
-				<div class="col-md-4 col-sm-6 col-xxs-12">
-					<a href="images/work_1.jpg" class="fh5co-project-item image-popup to-animate">
-						<img src="images/work_1.jpg" alt="Image" class="img-responsive">
-						<div class="fh5co-text">
-						<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12 text-center to-animate">
-					<p>* Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a></p>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section id="fh5co-testimonials" data-section="testimonials">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">Testimonials</h2>
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 	</section>
 
 	
@@ -323,7 +205,7 @@
 		<div class="container">
 			<div class="">
 				<div class="col-md-12 text-center">
-					<p>&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a></p>
+					<p> Rico All Rights Reserved. <br><a href="http://freehtml5.co/" target="_blank">粤ICP备19091179号-2</a> <a href="http://pexels.com/" target="_blank"></a>, <a href="http://plmd.me/" target="_blank"></a></p>
 					
 				</div>
 			</div>
